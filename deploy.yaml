@@ -1,0 +1,5 @@
+template-file-path: /template/master-fullstack.yaml
+parameters:
+  project: mybookstore
+tags:
+  project: mybookstore
